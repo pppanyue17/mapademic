@@ -1,8 +1,10 @@
-# 📄 Document question answering template
+# Mapademic - Global Academic Research and Career Trajectory Visualization App
 
-A simple Streamlit app that answers questions about an uploaded document via OpenAI's GPT-3.5.
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://document-question-answering-template.streamlit.app/)
+Features
+Discipline Input: Users can specify the academic discipline of interest to tailor the search to relevant fields.
+Keyword Search: After specifying a discipline, users can enter specific keywords to fine-tune the search criteria.
+Data Scraping: The app scrapes the first 500 relevant academic papers from Google Scholar based on the provided keywords.
+Heatmap Visualization: The results are presented as a heatmap, showcasing the geographical distribution of the research papers' publishing locations.
 
 ### How to run it on your own machine
 
